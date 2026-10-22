@@ -83,7 +83,7 @@ Find, list, and manage rental properties in one clean platform.
 
 `Node.js` `Express` `PostgreSQL` `React`
 
-[🔗 View Project](https://github.com/ashish-sharma-1225/house-rent-admin-module)
+[🔗 View Project](https://github.com/YOUR_USERNAME/REPO_NAME)
 
 </td>
 <td width="33%" valign="top">
@@ -93,7 +93,7 @@ Uses AI to score and rank resumes against a job description.
 
 `Python` `AI/ML` `NLP`
 
-[🔗 View Project](https://github.com/ashish-sharma-1225/AI-Resume-Ranker)
+[🔗 View Project](https://github.com/YOUR_USERNAME/REPO_NAME)
 
 </td>
 <td width="33%" valign="top">
@@ -103,7 +103,7 @@ A creative video editor built for smooth, modern editing.
 
 `JavaScript` `React` `Node.js`
 
-[🔗 View Project](https://github.com/ashish-sharma-1225/AURA-VIDEO-EDITOR)
+[🔗 View Project](https://github.com/YOUR_USERNAME/REPO_NAME)
 
 </td>
 </tr>
@@ -157,7 +157,7 @@ A creative video editor built for smooth, modern editing.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=FF00E5)](https://YOUR_PORTFOLIO.com)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF)](mailto:YOUR_EMAIL)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00E5)](https://www.instagram.com/ashish._.sharma_25/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF00E5)](https://instagram.com/YOUR_HANDLE)
 
 <br/>
 
